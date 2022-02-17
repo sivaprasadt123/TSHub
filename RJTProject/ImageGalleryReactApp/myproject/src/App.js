@@ -1,11 +1,12 @@
 import React from 'react';
-import { Exemain } from './TSHSamProj/ImageGalaryProj/Exemain';
+//import { Exemain } from './TSHSamProj/ImageGalaryProj/Exemain';
+import ToDoMain from './TSHSamProj/ToDoliProj/ToDoMain'
 
 
 const App = () => {
 return(
   <div>
-    <Exemain />
+    <ToDoMain />
   </div>
 )
 }
